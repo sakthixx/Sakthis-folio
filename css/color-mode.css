@@ -6,7 +6,7 @@ body:after {
   height: 0;
   overflow: hidden;
   z-index: -1;
-  content: url(../face-animation-light/des.png)
+  content: url(../face-animation-light/bl-1.png)
     url(../face-animation-light/bl-2.png)
     url(../face-animation-light/bl-3.png)
     url(../face-animation-light/bl-4.png)
