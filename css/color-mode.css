@@ -6,46 +6,46 @@ body:after {
   height: 0;
   overflow: hidden;
   z-index: -1;
-  content: url(../assets/face-animation-light/des.png)
-    url(../assets/face-animation-light/bl-2.png)
-    url(../assets/face-animation-light/bl-3.png)
-    url(../assets/face-animation-light/bl-4.png)
-    url(../assets/face-animation-light/bl-5.png)
-    url(../assets/face-animation-light/tr-1.png)
-    url(../assets/face-animation-light/tr-2.png)
-    url(../assets/face-animation-light/tr-3.png)
-    url(../assets/face-animation-light/tr-4.png)
-    url(../assets/face-animation-light/tr-5.png)
-    url(../assets/face-animation-light/bl-1.png)
-    url(../assets/face-animation-light/bl-2.png)
-    url(../assets/face-animation-light/bl-3.png)
-    url(../assets/face-animation-light/bl-4.png)
-    url(../assets/face-animation-light/bl-5.png)
-    url(../assets/face-animation-light/br-1.png)
-    url(../assets/face-animation-light/br-2.png)
-    url(../assets/face-animation-light/br-3.png)
-    url(../assets/face-animation-light/br-4.png)
-    url(../assets/face-animation-light/br-5.png)
-    url(../assets/face-animation-dark/des.png)
-    url(../assets/face-animation-dark/blw-2.png)
-    url(../assets/face-animation-dark/blw-3.png)
-    url(../assets/face-animation-dark/blw-4.png)
-    url(../assets/face-animation-dark/blw-5.png)
-    url(../assets/face-animation-dark/trw-1.png)
-    url(../assets/face-animation-dark/trw-2.png)
-    url(../assets/face-animation-dark/trw-3.png)
-    url(../assets/face-animation-dark/trw-4.png)
-    url(../assets/face-animation-dark/trw-5.png)
-    url(../assets/face-animation-dark/des.png)
-    url(../assets/face-animation-dark/blw-2.png)
-    url(../assets/face-animation-dark/blw-3.png)
-    url(../assets/face-animation-dark/blw-4.png)
-    url(../assets/face-animation-dark/blw-5.png)
-    url(../assets/face-animation-dark/brw-1.png)
-    url(../assets/face-animation-dark/brw-2.png)
-    url(../assets/face-animation-dark/brw-3.png)
-    url(../assets/face-animation-dark/brw-4.png)
-    url(../assets/face-animation-dark/brw-5.png);
+  content: url(../face-animation-light/des.png)
+    url(../face-animation-light/bl-2.png)
+    url(../face-animation-light/bl-3.png)
+    url(../face-animation-light/bl-4.png)
+    url(../face-animation-light/bl-5.png)
+    url(../face-animation-light/tr-1.png)
+    url(../face-animation-light/tr-2.png)
+    url(../face-animation-light/tr-3.png)
+    url(../face-animation-light/tr-4.png)
+    url(../face-animation-light/tr-5.png)
+    url(../face-animation-light/bl-1.png)
+    url(../face-animation-light/bl-2.png)
+    url(../face-animation-light/bl-3.png)
+    url(../face-animation-light/bl-4.png)
+    url(../face-animation-light/bl-5.png)
+    url(../face-animation-light/br-1.png)
+    url(../face-animation-light/br-2.png)
+    url(../face-animation-light/br-3.png)
+    url(../face-animation-light/br-4.png)
+    url(../face-animation-light/br-5.png)
+    url(../face-animation-dark/des.png)
+    url(../face-animation-dark/blw-2.png)
+    url(../face-animation-dark/blw-3.png)
+    url(../face-animation-dark/blw-4.png)
+    url(../face-animation-dark/blw-5.png)
+    url(../face-animation-dark/trw-1.png)
+    url(../face-animation-dark/trw-2.png)
+    url(../face-animation-dark/trw-3.png)
+    url(../face-animation-dark/trw-4.png)
+    url(../face-animation-dark/trw-5.png)
+    url(../face-animation-dark/des.png)
+    url(../face-animation-dark/blw-2.png)
+    url(../face-animation-dark/blw-3.png)
+    url(../face-animation-dark/blw-4.png)
+    url(../face-animation-dark/blw-5.png)
+    url(../face-animation-dark/brw-1.png)
+    url(../face-animation-dark/brw-2.png)
+    url(../face-animation-dark/brw-3.png)
+    url(../face-animation-dark/brw-4.png)
+    url(../face-animation-dark/brw-5.png);
 }
 
 :root {
@@ -59,31 +59,31 @@ body:after {
   --text-alt: #fff;
 
   /* Face animations */
-  --tl-1: url(../assets/face-animation-light/tl-1.png);
-  --tl-2: url(../assets/face-animation-light/tl-2.png);
-  --tl-3: url(../assets/face-animation-light/tl-3.png);
-  --tl-4: url(../assets/face-animation-light/tl-4.png);
-  --tl-5: url(../assets/face-animation-light/tl-5.png);
+  --tl-1: url(../face-animation-light/tl-1.png);
+  --tl-2: url(../face-animation-light/tl-2.png);
+  --tl-3: url(../face-animation-light/tl-3.png);
+  --tl-4: url(../face-animation-light/tl-4.png);
+  --tl-5: url(../face-animation-light/tl-5.png);
 
-  --tr-1: url(../assets/face-animation-light/tr-1.png);
-  --tr-2: url(../assets/face-animation-light/tr-2.png);
-  --tr-3: url(../assets/face-animation-light/tr-3.png);
-  --tr-4: url(../assets/face-animation-light/tr-4.png);
-  --tr-5: url(../assets/face-animation-light/tr-5.png);
+  --tr-1: url(../face-animation-light/tr-1.png);
+  --tr-2: url(../face-animation-light/tr-2.png);
+  --tr-3: url(../face-animation-light/tr-3.png);
+  --tr-4: url(../face-animation-light/tr-4.png);
+  --tr-5: url(../face-animation-light/tr-5.png);
 
-  --bl-1: url(../assets/face-animation-light/bl-1.png);
-  --bl-2: url(../assets/face-animation-light/bl-2.png);
-  --bl-3: url(../assets/face-animation-light/bl-3.png);
-  --bl-4: url(../assets/face-animation-light/bl-4.png);
-  --bl-5: url(../assets/face-animation-light/bl-5.png);
+  --bl-1: url(../face-animation-light/bl-1.png);
+  --bl-2: url(../face-animation-light/bl-2.png);
+  --bl-3: url(../face-animation-light/bl-3.png);
+  --bl-4: url(../face-animation-light/bl-4.png);
+  --bl-5: url(../face-animation-light/bl-5.png);
 
-  --br-1: url(../assets/face-animation-light/br-1.png);
-  --br-2: url(../assets/face-animation-light/br-2.png);
-  --br-3: url(../assets/face-animation-light/br-3.png);
-  --br-4: url(../assets/face-animation-light/br-4.png);
-  --br-5: url(../assets/face-animation-light/br-5.png);
+  --br-1: url(../face-animation-light/br-1.png);
+  --br-2: url(../face-animation-light/br-2.png);
+  --br-3: url(../face-animation-light/br-3.png);
+  --br-4: url(../face-animation-light/br-4.png);
+  --br-5: url(../face-animation-light/br-5.png);
 
-  --sun: url(../assets/icons/sun.png);
+  --sun: url(../icons/sun.png);
 }
 
 /* DARK MODE */
@@ -96,31 +96,31 @@ body:after {
   --border: 0.01rem solid #5a5a5a;
   --text: #a8a29e;
 
-  --tl-1: url(../assets/face-animation-dark/tlw-1.png);
-  --tl-2: url(../assets/face-animation-dark/tlw-2.png);
-  --tl-3: url(../assets/face-animation-dark/tlw-3.png);
-  --tl-4: url(../assets/face-animation-dark/tlw-4.png);
-  --tl-5: url(../assets/face-animation-dark/tlw-5.png);
+  --tl-1: url(../face-animation-dark/tlw-1.png);
+  --tl-2: url(../face-animation-dark/tlw-2.png);
+  --tl-3: url(../face-animation-dark/tlw-3.png);
+  --tl-4: url(../face-animation-dark/tlw-4.png);
+  --tl-5: url(../face-animation-dark/tlw-5.png);
 
-  --tr-1: url(../assets/face-animation-dark/trw-1.png);
-  --tr-2: url(../assets/face-animation-dark/trw-2.png);
-  --tr-3: url(../assets/face-animation-dark/trw-3.png);
-  --tr-4: url(../assets/face-animation-dark/trw-4.png);
-  --tr-5: url(../assets/face-animation-dark/trw-5.png);
+  --tr-1: url(../face-animation-dark/trw-1.png);
+  --tr-2: url(../face-animation-dark/trw-2.png);
+  --tr-3: url(../face-animation-dark/trw-3.png);
+  --tr-4: url(../face-animation-dark/trw-4.png);
+  --tr-5: url(../face-animation-dark/trw-5.png);
 
-  --bl-1: url(../assets/face-animation-dark/blw-1.png);
-  --bl-2: url(../assets/face-animation-dark/blw-2.png);
-  --bl-3: url(../assets/face-animation-dark/blw-3.png);
-  --bl-4: url(../assets/face-animation-dark/blw-4.png);
-  --bl-5: url(../assets/face-animation-dark/blw-5.png);
+  --bl-1: url(../face-animation-dark/blw-1.png);
+  --bl-2: url(../face-animation-dark/blw-2.png);
+  --bl-3: url(../face-animation-dark/blw-3.png);
+  --bl-4: url(../face-animation-dark/blw-4.png);
+  --bl-5: url(../face-animation-dark/blw-5.png);
 
-  --br-1: url(../assets/face-animation-dark/brw-1.png);
-  --br-2: url(../assets/face-animation-dark/brw-2.png);
-  --br-3: url(../assets/face-animation-dark/brw-3.png);
-  --br-4: url(../assets/face-animation-dark/brw-4.png);
-  --br-5: url(../assets/face-animation-dark/brw-5.png);
+  --br-1: url(../face-animation-dark/brw-1.png);
+  --br-2: url(../face-animation-dark/brw-2.png);
+  --br-3: url(../face-animation-dark/brw-3.png);
+  --br-4: url(../face-animation-dark/brw-4.png);
+  --br-5: url(../face-animation-dark/brw-5.png);
 
-  --moon: url(../assets/icons/moon.png);
+  --moon: url(../icons/moon.png);
 }
 
 :root.dark-mode{
@@ -146,13 +146,13 @@ body:after {
 }
 
 #toggle-button {
-  background-image: url(https://github.com/lifeofmit/portfolio-2024-mit-joshi/assets/75907060/c21919ab-e4b8-4388-a817-257fe6622c7b);
+  background-image: url(https://github.com/lifeofmit/portfolio-2024-mit-joshi/75907060/c21919ab-e4b8-4388-a817-257fe6622c7b);
   background-size: cover;
   cursor: pointer;
 }
 
 .dark-mode #toggle-button {
-  background-image: url(https://github.com/lifeofmit/portfolio-2024-mit-joshi/assets/75907060/63db0a08-dd22-45d1-a13e-88457654178f);
+  background-image: url(https://github.com/lifeofmit/portfolio-2024-mit-joshi/75907060/63db0a08-dd22-45d1-a13e-88457654178f);
 }
 
 .dark-mode #color-mode {
